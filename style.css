@@ -29,10 +29,9 @@ header {
     z-index: 99;
 }
   
-  .logo {
+.logo {
     font-size: 2em;
     color: black
-    user-select: none;
 }
 
 #city {
@@ -45,6 +44,6 @@ header {
     width: 100px;
 }
   
-  #city option {
+#city option {
     padding: 10px;
 }

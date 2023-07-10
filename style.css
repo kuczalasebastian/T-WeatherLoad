@@ -3,9 +3,9 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
   
-  body {
+body {
     min-height: 100vh;
-    background: url('desert.jpg') no-repeat;
+    background: url('warsaw.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -42,8 +42,4 @@ header {
     background-color: #ffffff5a;
     color: #000000;
     width: 100px;
-}
-  
-#city option {
-    padding: 10px;
 }
